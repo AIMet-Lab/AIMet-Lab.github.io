@@ -2,7 +2,7 @@
 title: "Contacts"
 permalink: /contacts/
 header:
-  overlay_image: /assets/images/transparent.jpg
+  overlay_image: /assets/images/AIMET_splash.png
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 
 layout: single

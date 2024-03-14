@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "About"
 #tagline: "The 26th International Conference on Theory and Applications of Satisfiability Testing<br><br>July 04-08, Alghero, Italy"
 header:
   overlay_image: /assets/images/AIMET_splash.png
