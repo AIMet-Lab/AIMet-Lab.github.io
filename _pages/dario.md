@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
 
-Dario Guidotti is an Assistant Professor at the Department of Humanities and Social Sciences of the University of Sassari.
+Dario Guidotti is Assistant Professor at the Department of Humanities and Social Sciences of the University of Sassari.
 <br><br>
 His research largely focuses on reliable & trustworthy AI, with special emphasis on safety of neural networks.
 <br><br>
